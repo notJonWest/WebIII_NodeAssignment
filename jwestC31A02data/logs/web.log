@@ -1,0 +1,119 @@
+2018-10-16 13:43:42; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&rating=sell; 416; Range not satisfiable
+2018-10-16 13:49:19; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&rating=sell; 416; Range not satisfiable
+2018-10-16 13:51:34; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&rating=sell; 416; Range not satisfiable
+2018-10-16 13:52:21; ../jwestC31A02data/stocksOld.xml/?rating=sell; 200; OK
+2018-10-16 13:52:42; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG; 200; OK
+2018-10-16 13:53:10; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&r=o; 200; OK
+2018-10-16 13:53:20; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&r=o; 200; OK
+2018-10-16 13:53:24; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&r=o; 200; OK
+2018-10-16 13:55:12; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&rating=o; 200; OK
+2018-10-16 13:55:18; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&rating=sell; 416; Range not satisfiable
+2018-10-16 13:55:22; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&rating=sel; 200; OK
+2018-10-16 13:55:31; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&rating=sell; 416; Range not satisfiable
+2018-10-16 13:56:05; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&rating=sell; 416; Range not satisfiable
+2018-10-16 13:57:12; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&rating=sell; 416; Range not satisfiable
+2018-10-16 14:00:21; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&rating=sell; 416; Range not satisfiable
+2018-10-16 14:01:47; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&rating=sell; 416; Range not satisfiable
+2018-10-16 14:11:01; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&rating=sell; 416; Range not satisfiable
+2018-10-16 14:11:04; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&ratng=sell; 416; Range not satisfiable
+2018-10-16 14:11:10; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG; 416; Range not satisfiable
+2018-10-16 14:11:54; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG; 200; OK
+2018-10-16 14:12:02; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&r-o; 416; Range not satisfiable
+2018-10-16 14:12:06; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&r=o; 416; Range not satisfiable
+2018-10-16 14:12:13; ../jwestC31A02data/stocksOld.xml/?sSymbol=LEG&rating=outperform; 200; OK
+2018-10-16 19:31:55; ../jwestC31A02root/public/index.html; 200; OK
+2018-10-16 19:31:55; /favicon.ico; 200; OK
+2018-10-16 19:32:00; ../jwestC31A02root/public/newpath/default.html; 200; OK
+2018-10-16 19:32:04; /newpath/evenmore; 404; Not Found
+2018-10-16 19:32:11; /newpath/evenmore/TestPath.html; 200; OK
+2018-10-16 19:34:21; /newpath/evenmore/TestPath.ht; 415; Unsupported Media Type
+2018-10-16 19:34:31; /newpath/evenmore/TestPat.html; 404; Not Found
+2018-10-16 19:34:37; /newpath/evenmore/TestPat; 404; Not Found
+2018-10-16 19:34:41; /newpath/evenmore/TestPath; 404; Not Found
+2018-10-16 19:35:17; ../jwestC31A02data/stocks.json; 400; Bad Request
+2018-10-16 19:35:37; ../jwestC31A02data/stocksk.xml; 406; Not Acceptable
+2018-10-16 19:37:22; ../jwestC31A02data/stocksk.xml; 404; Not Found
+2018-10-16 19:37:29; ../jwestC31A02data/stocks.xml; 406; Not Acceptable
+2018-10-16 19:37:41; ../jwestC31A02data/stock.xml; 404; Not Found
+2018-10-16 19:37:46; ../jwestC31A02data/stocks.xml; 406; Not Acceptable
+2018-10-16 19:38:22; ../jwestC31A02data/stocks.xml/?r=0; 416; Range not satisfiable
+2018-10-16 19:38:42; ../jwestC31A02data/stocks.xml/?; 406; Not Acceptable
+2018-10-16 19:38:44; ../jwestC31A02data/stocks.xml; 406; Not Acceptable
+2018-10-16 19:38:50; ../jwestC31A02data/stocks.xml/?r; 416; Range not satisfiable
+2018-10-16 19:39:15; ../jwestC31A02data/stocks.xml/?rating=sell; 200; OK
+2018-10-16 19:39:19; ../jwestC31A02data/stocks.xml/?rating=sells; 416; Range not satisfiable
+2018-10-16 19:39:29; ../jwestC31A02data/stocks.xml/?rating=sell; 200; OK
+2018-10-16 19:39:35; ../jwestC31A02data/stocks.xml/?rating=sell&t=0; 416; Range not satisfiable
+2018-10-16 19:39:45; ../jwestC31A02data/stocks.xml/?rating=outperfrom; 416; Range not satisfiable
+2018-10-16 19:39:49; ../jwestC31A02data/stocks.xml/?rating=outperform; 200; OK
+2018-10-16 19:40:10; ../jwestC31A02data/stocks.xml/?rating=outperform&sMarket=n%5Ca; 416; Range not satisfiable
+2018-10-16 19:40:28; ../jwestC31A02data/stocks.xml/?rating=outperform&sSymbol=LEG; 200; OK
+2018-10-16 19:40:34; ../jwestC31A02data/stocks.xml/?rating=sell&sSymbol=LEG; 416; Range not satisfiable
+2018-10-16 19:40:43; ../jwestC31A02data/stocksOld.xml/?rating=sell&sSymbol=LEG; 416; Range not satisfiable
+2018-10-16 19:40:50; ../jwestC31A02data/stocksOld.xml/?rating=outperform&sSymbol=LEG; 200; OK
+2018-10-16 19:41:41; ../jwestC31A02data/cars.json/?model=Elantra&sorter=undefined; 200; OK
+2018-10-16 19:41:49; ../jwestC31A02data/cars.json/?make=Toyota&sorter=undefined; 200; OK
+2018-10-16 19:42:18; /createUser.html; 200; OK
+2018-10-16 19:43:12; /createUser.html; 200; OK
+2018-10-16 19:45:36; /createUser.html; 200; OK
+2018-10-16 19:47:18; /createUser.html; 200; OK
+2018-10-16 19:47:36; ../jwestC31A02data/cars.json/?model=Elantra&sorter=undefined; 200; OK
+2018-10-16 19:47:43; ../jwestC31A02data/cars.json/?model=Elan&sorter=undefined; 416; Range not satisfiable
+2018-10-16 19:48:00; ../jwestC31A02data/cars.json/?model=Elan&sorter=undefined; 416; Range not satisfiable
+2018-10-16 19:48:00; /favicon.ico; 200; OK
+2018-10-16 19:48:08; ../jwestC31A02data/cars.json/?model=Elan&sorter=undefined; 416; Range not satisfiable
+2018-10-16 19:48:08; /favicon.ico; 200; OK
+2018-10-16 19:48:30; /favicon.ico; 200; OK
+2018-10-16 19:48:30; /favicon.ico; 200; OK
+2018-10-16 19:49:00; /TestCSS.html; 404; Not Found
+2018-10-16 19:49:08; /Test9CSS.html; 404; Not Found
+2018-10-16 19:49:19; /Test7CSS.html; 200; OK
+2018-10-16 19:49:19; /styles/testCSS.css; 200; OK
+2018-10-16 19:49:20; /images/ballooninsky.jpg; 200; OK
+2018-10-16 19:49:39; /Test6AllImageTypes.html; 200; OK
+2018-10-16 19:49:39; /images/Foxtrot_HTML_Tag.gif; 200; OK
+2018-10-16 19:49:39; /images/wirelessbirds.jpg; 200; OK
+2018-10-16 19:49:39; /images/awesome_tiger.svg; 200; OK
+2018-10-16 19:49:39; /images/portablePhone.png; 200; OK
+2018-10-16 19:49:53; /TestPDF.pdf; 200; OK
+2018-10-16 19:50:06; /TestText.txt; 200; OK
+2018-10-16 19:50:14; /TestXML.xml; 200; OK
+2018-10-16 19:52:03; /TestCSS.css; 404; Not Found
+2018-10-16 19:52:19; /styles/TestCSS.css; 200; OK
+2018-10-16 19:53:11; /createUser.html; 200; OK
+2018-10-16 19:53:11; /styles/style.css; 200; OK
+2018-10-16 19:53:27; /createUser.html; 200; OK
+2018-10-16 19:53:27; /styles/style.css; 200; OK
+2018-10-16 19:55:13; /createUser.html; 200; OK
+2018-10-16 19:55:13; /styles/style.css; 200; OK
+2018-10-16 19:55:34; /createUser.html; 200; OK
+2018-10-16 19:55:34; /styles/style.css; 200; OK
+2018-10-16 19:55:46; /createUser.html; 200; OK
+2018-10-16 19:55:46; /styles/style.css; 200; OK
+2018-10-16 19:55:53; /createUser.html; 200; OK
+2018-10-16 19:55:53; /styles/style.css; 200; OK
+2018-10-16 19:55:56; /createUser.html; 200; OK
+2018-10-16 19:55:57; /styles/style.css; 200; OK
+2018-10-16 19:56:18; /createUser.html; 200; OK
+2018-10-16 19:56:18; /styles/style.css; 200; OK
+2018-10-16 19:57:24; /createUser.html; 200; OK
+2018-10-16 19:57:24; /styles/style.css; 200; OK
+2018-10-16 19:58:28; /createUser.html; 200; OK
+2018-10-16 19:58:28; /styles/style.css; 200; OK
+2018-10-16 19:59:30; /createUser.html; 200; OK
+2018-10-16 19:59:30; /styles/style.css; 200; OK
+2018-10-16 19:59:38; /createUser.html; 200; OK
+2018-10-16 19:59:38; /styles/style.css; 200; OK
+2018-10-16 19:59:49; /createUser.html; 200; OK
+2018-10-16 19:59:49; /styles/style.css; 200; OK
+2018-10-18 13:32:10; ../jwestC31A02root/public/index.html; 200; OK
+2018-10-18 13:32:10; /favicon.ico; 200; OK
+2018-10-18 13:32:10; /favicon.ico; 200; OK
+2018-10-18 13:32:10; /favicon.ico; 200; OK
+2018-10-18 13:32:10; /favicon.ico; 200; OK
+2018-10-18 13:32:28; ../jwestC31A02root/public/index.html; 200; OK
+2018-10-18 13:32:43; ../jwestC31A02data/stocks.xml/?la=o; 416; Range not satisfiable
+2018-10-18 13:32:50; ../jwestC31A02data/stocks.xml; 406; Not Acceptable
+2019-03-15 15:33:02; ../jwestC31A02root/public/index.html; 200; OK
+2019-03-15 15:33:02; /favicon.ico; 200; OK
+2019-03-15 15:33:02; /favicon.ico; 200; OK

@@ -1,0 +1,11 @@
+{
+  "name": "json-searcher",
+  "version": "1.0.0",
+  "description": "Define what files and fields should be searchable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan West",
+  "license": "UNLICENSED"
+}

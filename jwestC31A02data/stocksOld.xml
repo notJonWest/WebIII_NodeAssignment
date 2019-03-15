@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <record>
+        <sName sSymbol="LEG">Leggett and Platt, Incorporated</sName>
+        <sIndustry>Home Furnishings</sIndustry>
+        <sMarket>$6.98B</sMarket>
+        <rating>outperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="ANET">Arista Networks, Inc.</sName>
+        <sIndustry>Computer Communications Equipment</sIndustry>
+        <sMarket>$10.91B</sMarket>
+        <rating>sell</rating>
+    </record>
+    <record>
+        <sName sSymbol="TCBIW">Texas Capital Bancshares, Inc.</sName>
+        <sIndustry>Major Banks</sIndustry>
+        <sMarket>n/a</sMarket>
+        <rating>outperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="TRR">TRC Companies, Inc.</sName>
+        <sIndustry>Military/Government/Technical</sIndustry>
+        <sMarket>$555.08M</sMarket>
+        <rating>outperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="FSLR">First Solar, Inc.</sName>
+        <sIndustry>Semiconductors</sIndustry>
+        <sMarket>$3.74B</sMarket>
+        <rating>outperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="COF">Capital One Financial Corporation</sName>
+        <sIndustry>Major Banks</sIndustry>
+        <sMarket>$39.27B</sMarket>
+        <rating>underperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="MZF">Managed Duration Investment Grade Municipal Fund</sName>
+        <sIndustry>n/a</sIndustry>
+        <sMarket>$94.05M</sMarket>
+        <rating>underperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="PGNX">Progenics Pharmaceuticals Inc.</sName>
+        <sIndustry>Major Pharmaceuticals</sIndustry>
+        <sMarket>$469.81M</sMarket>
+        <rating>buy</rating>
+    </record>
+    <record>
+        <sName sSymbol="ECT">ECA Marcellus Trust I</sName>
+        <sIndustry>Oil and Gas Production</sIndustry>
+        <sMarket>$37.85M</sMarket>
+        <rating>hold</rating>
+    </record>
+    <record>
+        <sName sSymbol="NSM">Nationstar Mortgage Holdings Inc.</sName>
+        <sIndustry>Finance: Consumer Services</sIndustry>
+        <sMarket>$1.76B</sMarket>
+        <rating>outperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="PACB">Pacific Biosciences of California, Inc.</sName>
+        <sIndustry>Biotechnology: Laboratory Analytical Instruments</sIndustry>
+        <sMarket>$316.2M</sMarket>
+        <rating>buy</rating>
+    </record>
+    <record>
+        <sName sSymbol="STBZ">State Bank Financial Corporation.</sName>
+        <sIndustry>Major Banks</sIndustry>
+        <sMarket>$1.04B</sMarket>
+        <rating>buy</rating>
+    </record>
+    <record>
+        <sName sSymbol="CLBS">Caladrius Biosciences, Inc.</sName>
+        <sIndustry>Hospital/Nursing Management</sIndustry>
+        <sMarket>$40.32M</sMarket>
+        <rating>outperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="VIIZ">VelocityShares VIX Medium-Term ETN</sName>
+        <sIndustry>Investment Bankers/Brokers/Service</sIndustry>
+        <sMarket>$1.14M</sMarket>
+        <rating>sell</rating>
+    </record>
+    <record>
+        <sName sSymbol="UTSI">UTStarcom Holdings Corp</sName>
+        <sIndustry>Telecommunications Equipment</sIndustry>
+        <sMarket>$84.95M</sMarket>
+        <rating>outperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="AXARU">Axar Acquisition Corp.</sName>
+        <sIndustry>Business Services</sIndustry>
+        <sMarket>n/a</sMarket>
+        <rating>buy</rating>
+    </record>
+    <record>
+        <sName sSymbol="">BanCc of California, Inc.</sName>
+        <sIndustry>n/a</sIndustry>
+        <sMarket>n/a</sMarket>
+        <rating>buy</rating>
+    </record>
+    <record>
+        <sName sSymbol="SIVBO">SVB Financial Group</sName>
+        <sIndustry>Major Banks</sIndustry>
+        <sMarket>n/a</sMarket>
+        <rating>hold</rating>
+    </record>
+    <record>
+        <sName sSymbol="AVID">Avid Technology, Inc.</sName>
+        <sIndustry>Computer Software: Prepackaged Software</sIndustry>
+        <sMarket>$205.59M</sMarket>
+        <rating>hold</rating>
+    </record>
+    <record>
+        <sName sSymbol="RRGB">Red Robin Gourmet Burgers, Inc.</sName>
+        <sIndustry>Restaurants</sIndustry>
+        <sMarket>$828.17M</sMarket>
+        <rating>underperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="DGAS">Delta Natural Gas Company, Inc.</sName>
+        <sIndustry>Oil and Gas Production</sIndustry>
+        <sMarket>$215.85M</sMarket>
+        <rating>hold</rating>
+    </record>
+    <record>
+        <sName sSymbol="FUSB">First US Bancshares, Inc.</sName>
+        <sIndustry>Major Banks</sIndustry>
+        <sMarket>$70.79M</sMarket>
+        <rating>sell</rating>
+    </record>
+    <record>
+        <sName sSymbol="ALLY">Ally Financial Inc.</sName>
+        <sIndustry>Finance: Consumer Services</sIndustry>
+        <sMarket>$9.35B</sMarket>
+        <rating>outperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="CWAY">Coastway Bancorp, Inc.</sName>
+        <sIndustry>Savings Institutions</sIndustry>
+        <sMarket>$91.14M</sMarket>
+        <rating>buy</rating>
+    </record>
+    <record>
+        <sName sSymbol="INPX">Inpixon </sName>
+        <sIndustry>EDP Services</sIndustry>
+        <sMarket>$3.85M</sMarket>
+        <rating>sell</rating>
+    </record>
+    <record>
+        <sName sSymbol="CHD">Church and Dwight Company, Inc.</sName>
+        <sIndustry>Package Goods/Cosmetics</sIndustry>
+        <sMarket>$13.26B</sMarket>
+        <rating>buy</rating>
+    </record>
+    <record>
+        <sName sSymbol="ARTX">Arotech Corporation</sName>
+        <sIndustry>Industrial Machinery/Components</sIndustry>
+        <sMarket>$92.5M</sMarket>
+        <rating>hold</rating>
+    </record>
+    <record>
+        <sName sSymbol="ECA">Encana Corporation</sName>
+        <sIndustry>Oil and Gas Production</sIndustry>
+        <sMarket>$8.55B</sMarket>
+        <rating>hold</rating>
+    </record>
+    <record>
+        <sName sSymbol="ELTK">Eltek Ltd.</sName>
+        <sIndustry>Electrical Products</sIndustry>
+        <sMarket>$6.8M</sMarket>
+        <rating>sell</rating>
+    </record>
+    <record>
+        <sName sSymbol="QPAC">Quinpario Acquisition Corp. 2</sName>
+        <sIndustry>Business Services</sIndustry>
+        <sMarket>$288.2M</sMarket>
+        <rating>sell</rating>
+    </record>
+    <record>
+        <sName sSymbol="HLF">Herbalife LTD.</sName>
+        <sIndustry>Other Pharmaceuticals</sIndustry>
+        <sMarket>$6.7B</sMarket>
+        <rating>hold</rating>
+    </record>
+    <record>
+        <sName sSymbol="">PeDbblebrook Hotel Trust</sName>
+        <sIndustry>n/a</sIndustry>
+        <sMarket>n/a</sMarket>
+        <rating>outperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="MPV">Barings Participation Investors</sName>
+        <sIndustry>n/a</sIndustry>
+        <sMarket>$146.29M</sMarket>
+        <rating>buy</rating>
+    </record>
+    <record>
+        <sName sSymbol="BDX">Becton, Dickinson and Company</sName>
+        <sIndustry>Medical/Dental Instruments</sIndustry>
+        <sMarket>$43.49B</sMarket>
+        <rating>buy</rating>
+    </record>
+    <record>
+        <sName sSymbol="YIN">Yintech Investment Holdings Limited</sName>
+        <sIndustry>Investment Bankers/Brokers/Service</sIndustry>
+        <sMarket>$725.83M</sMarket>
+        <rating>sell</rating>
+    </record>
+    <record>
+        <sName sSymbol="MCHI">iShares MSCI China ETF</sName>
+        <sIndustry>n/a</sIndustry>
+        <sMarket>$2.43B</sMarket>
+        <rating>hold</rating>
+    </record>
+    <record>
+        <sName sSymbol="SLP">Simulations Plus, Inc.</sName>
+        <sIndustry>EDP Services</sIndustry>
+        <sMarket>$206.03M</sMarket>
+        <rating>outperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="CCE">Coca-Cola European Partners plc</sName>
+        <sIndustry>Beverages (Production/Distribution)</sIndustry>
+        <sMarket>$19.54B</sMarket>
+        <rating>underperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="EXPE">Expedia, Inc.</sName>
+        <sIndustry>Transportation Services</sIndustry>
+        <sMarket>$22.07B</sMarket>
+        <rating>underperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="KMM">Scudder Multi-Market Income Trust</sName>
+        <sIndustry>n/a</sIndustry>
+        <sMarket>$198.85M</sMarket>
+        <rating>sell</rating>
+    </record>
+    <record>
+        <sName sSymbol="EUFN">iShares MSCI Europe Financials Sector Index Fund</sName>
+        <sIndustry>n/a</sIndustry>
+        <sMarket>$1.15B</sMarket>
+        <rating>sell</rating>
+    </record>
+    <record>
+        <sName sSymbol="BGNE">BeiGene, Ltd.</sName>
+        <sIndustry>Major Pharmaceuticals</sIndustry>
+        <sMarket>$1.66B</sMarket>
+        <rating>outperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="KDMN">Kadmon Holdings, Inc.</sName>
+        <sIndustry>Major Pharmaceuticals</sIndustry>
+        <sMarket>$142.06M</sMarket>
+        <rating>outperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="CDW">CDW Corporation</sName>
+        <sIndustry>Catalog/Specialty Distribution</sIndustry>
+        <sMarket>$9.73B</sMarket>
+        <rating>underperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="PAG">Penske Automotive Group, Inc.</sName>
+        <sIndustry>Automotive Aftermarket</sIndustry>
+        <sMarket>$3.56B</sMarket>
+        <rating>sell</rating>
+    </record>
+    <record>
+        <sName sSymbol="LTC">LTC Properties, Inc.</sName>
+        <sIndustry>Real Estate Investment Trusts</sIndustry>
+        <sMarket>$1.98B</sMarket>
+        <rating>hold</rating>
+    </record>
+    <record>
+        <sName sSymbol="JCO">Nuveen Credit Opportunities 2022 Target Term Fund</sName>
+        <sIndustry>n/a</sIndustry>
+        <sMarket>n/a</sMarket>
+        <rating>underperform</rating>
+    </record>
+    <record>
+        <sName sSymbol="EDUC">Educational Development Corporation</sName>
+        <sIndustry>Consumer Specialties</sIndustry>
+        <sMarket>$42.15M</sMarket>
+        <rating>hold</rating>
+    </record>
+    <record>
+        <sName sSymbol="LVLT">Level 3 Communications, Inc.</sName>
+        <sIndustry>Telecommunications Equipment</sIndustry>
+        <sMarket>$22.42B</sMarket>
+        <rating>buy</rating>
+    </record>
+    <record>
+        <sName sSymbol="FTCS">First Trust Capital Strength ETF</sName>
+        <sIndustry>n/a</sIndustry>
+        <sMarket>$431.69M</sMarket>
+        <rating>hold</rating>
+    </record>
+</dataset>

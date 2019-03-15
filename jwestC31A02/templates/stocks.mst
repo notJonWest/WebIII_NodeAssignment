@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Stock search results</title>
+    </head>
+    <body>
+        <ul>
+        {{#record}}
+            <li>
+                {{#sName}}
+                    <h2>{{$.sSymbol}}</h2>
+                    <h4>Company:</h4>
+                    <p>{{_}}</p>
+                {{/sName}}
+                    <h4>Industry:</h4>
+                {{#sIndustry}}
+                    <p>{{_}}</p>
+                {{/sIndustry}}
+                    <h4>Market:</h4>
+                {{#sMarket}}
+                    <p>{{_}}</p>
+                {{/sMarket}}
+                    <h4>Rating:</h4>
+                {{#rating}}
+                    <p>{{_}}</p>
+                {{/rating}}
+            </li>
+        {{/record}}
+        </ul>
+    </body>
+</html>

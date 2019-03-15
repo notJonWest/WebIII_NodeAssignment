@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>User Creation Successful</title>
+</head>
+<body>
+    <main>
+        <h2>Your user account was successfully created.</h2>
+        <h3> Here is the result:</h3>
+        <p>Username: {{username}}</p>
+        <p>First name: {{firstName}}</p>
+        <p>Last name: {{lastName}}</p>
+        <p>Email: {{emailAddress}}</p>
+        <p>Phone Number: {{phoneNum}}</p>
+    </main>
+</body>
+</html>

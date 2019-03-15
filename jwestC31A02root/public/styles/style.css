@@ -1,0 +1,86 @@
+body
+{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.midWidth
+{
+    width: 60vw;
+    max-width: 50em;
+    min-width: 14em;
+}
+.dark
+{
+    background-color: rgba(112, 128, 144, 0.7);
+}
+header, form input[type="button"], select
+{
+    background-color: seagreen;
+    color: beige;
+    border: solid 1px beige;
+}
+header
+{
+    padding: 0 1em;
+    font-weight: bold;
+    margin: auto auto 1em auto;
+    text-align: center;
+}
+
+form
+{
+    display: inline-block;
+    margin: auto;
+    padding: 0.5em 1em;
+}
+form > p
+{
+    display: block;
+    white-space: nowrap;
+}
+
+form > p > label
+{
+    float: left;
+    text-align: right;
+    width: 22vw;
+    min-width: 10em;
+    text-wrap: normal;
+    color: beige;
+}
+form input[type="text"]
+{
+    background-color: rgba(245, 245, 220, 0.5);
+    width: 30vw;
+    max-width: 40em;
+    height: 1.4em;
+}
+
+form input[type="button"], select
+{
+    width: 100%;
+    margin: 0.5em 0 0 0;
+    display: block;
+}
+
+input[type="button"]:hover
+{
+    border: inset 1px beige;
+    cursor: pointer;
+}
+
+input[type="button"]::-moz-focus-inner
+{
+    border: 0;
+}
+
+ul
+{
+    color: beige;
+    text-align: left;
+    margin: auto;
+    width: 60vw;
+    max-width: 50em;
+    min-width: 18em;
+}

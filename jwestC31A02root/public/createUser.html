@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="./styles/style.css"/>
+    <title>New User</title>
+</head>
+<body>
+    <main>
+        <form method="post">
+            <p>
+                <label for="firstName">First Name: </label>
+                <input id="firstName" name="firstName" type="text"/>
+            </p>
+            <p>
+                <label for="lastName">Last Name: </label>
+                <input id="lastName" name="lastName" type="text"/>
+            </p>
+            <p>
+                <label for="username">Username: </label>
+                <input id="username" name="username" type="text"/>
+            </p>
+            <p>
+                <label for="emailAddress">Email: </label>
+                <input id="emailAddress" name="emailAddress" type="text"/>
+            </p>
+            <p>
+                <label for="phoneNum">Phone Number: </label>
+                <input id="phoneNum" name="phoneNum" type="text"/>
+            </p>
+            <input type="submit" value="Create"/>
+            <input type="hidden" name="module" value="user"/>
+            <input type="hidden" name="temp" value="userInfo.mst"/>
+            <input type="hidden" name="save" value="users.txt"/>
+        </form>
+    </main>
+</body>
+</html>

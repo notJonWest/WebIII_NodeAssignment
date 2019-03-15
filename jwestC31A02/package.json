@@ -1,0 +1,20 @@
+{
+  "name": "jwestc31a02",
+  "version": "0.0.1",
+  "description": "Standard web server with an odd collection of files.",
+  "repository": {
+    "type": "git",
+    "url": "None"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mustache": "*",
+    "xml2js": "*"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan West"
+}

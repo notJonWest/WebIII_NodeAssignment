@@ -1,0 +1,11 @@
+{
+  "name": "xml2js-searchable",
+  "version": "1.0.0",
+  "description": "This module holds what terms should be searchable within a file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan West",
+  "license": "UNLICENSED"
+}
