@@ -9,3 +9,5 @@ eh, be, ce, de, ee
 eh, be, ce, de, ee
 Jonathan, West, jwest, jwest@ce-he.ca, 0080000100
 <script>document.getElementsByTagName("body")[0].innerHTML = "hacked";</script>, West, jwest, jwest@ce-he.ca, 0080000100
+<script>alert("uhoh");</script>, , , , 
+la, , , , 

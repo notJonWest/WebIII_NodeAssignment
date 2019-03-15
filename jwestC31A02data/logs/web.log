@@ -106,14 +106,93 @@
 2018-10-16 19:59:38; /styles/style.css; 200; OK
 2018-10-16 19:59:49; /createUser.html; 200; OK
 2018-10-16 19:59:49; /styles/style.css; 200; OK
-2018-10-18 13:32:10; ../jwestC31A02root/public/index.html; 200; OK
-2018-10-18 13:32:10; /favicon.ico; 200; OK
-2018-10-18 13:32:10; /favicon.ico; 200; OK
-2018-10-18 13:32:10; /favicon.ico; 200; OK
-2018-10-18 13:32:10; /favicon.ico; 200; OK
-2018-10-18 13:32:28; ../jwestC31A02root/public/index.html; 200; OK
-2018-10-18 13:32:43; ../jwestC31A02data/stocks.xml/?la=o; 416; Range not satisfiable
-2018-10-18 13:32:50; ../jwestC31A02data/stocks.xml; 406; Not Acceptable
-2019-03-15 15:33:02; ../jwestC31A02root/public/index.html; 200; OK
-2019-03-15 15:33:02; /favicon.ico; 200; OK
-2019-03-15 15:33:02; /favicon.ico; 200; OK
+2018-10-19 15:34:57; ../jwestC31A02data/stocks.xml/?la=0; 416; Range not satisfiable
+2018-10-19 15:34:57; /favicon.ico; 200; OK
+2018-10-19 15:34:57; /favicon.ico; 200; OK
+2018-10-19 15:34:57; /favicon.ico; 200; OK
+2018-10-19 15:34:57; /favicon.ico; 200; OK
+2018-10-19 15:35:36; ../jwestC31A02data/stocks.xml/?%5C; 416; Range not satisfiable
+2018-10-19 15:35:40; ../jwestC31A02data/stocks.xml; 406; Not Acceptable
+2018-10-19 15:35:44; ../jwestC31A02data/gl; 404; Not Found
+2018-10-19 15:35:52; ../jwestC31A02data/stocks.xml/?rating=out; 416; Range not satisfiable
+2018-10-19 15:35:55; ../jwestC31A02data/stocks.xml/?rating=outperform; 200; OK
+2018-10-19 18:27:43; ../jwestC31A02data/cars.json/?make=honda&sorter=undefined; 200; OK
+2018-10-19 18:27:44; /favicon.ico; 200; OK
+2018-10-19 18:27:44; /favicon.ico; 200; OK
+2018-10-19 18:28:09; ../jwestC31A02data/cars.json/?make=honda&sorter=undefined; 200; OK
+2018-10-19 18:28:09; /favicon.ico; 200; OK
+2018-10-19 18:28:09; /favicon.ico; 200; OK
+2018-10-19 18:28:22; ../jwestC31A02data/cars.json/?model=camry&sorter=undefined; 416; Range not satisfiable
+2018-10-19 18:28:29; ../jwestC31A02data/cars.json/?model=corolla&sorter=undefined; 416; Range not satisfiable
+2018-10-19 18:28:36; ../jwestC31A02data/cars.json/?make=toyota&sorter=undefined; 200; OK
+2018-10-19 18:28:47; ../jwestC31A02data/cars.json/?model=toyota&sorter=undefined; 416; Range not satisfiable
+2018-10-19 18:28:50; ../jwestC31A02data/cars.json/?model=avalon&sorter=undefined; 200; OK
+2018-10-19 18:28:53; /bin; 404; Not Found
+2018-10-19 18:29:03; ../jwestC31A02data/stocks.xml; 406; Not Acceptable
+2018-10-19 18:29:10; ../jwestC31A02data/stocks.xml/?q=a; 416; Range not satisfiable
+2018-10-19 18:29:17; ../jwestC31A02data/stocks.xml/?sName=lll; 416; Range not satisfiable
+2018-10-19 18:29:55; ../jwestC31A02data/stocks.xml/?symbol=AAPL; 416; Range not satisfiable
+2018-10-19 18:29:59; ../jwestC31A02data/stocks.xml/?saymbol=AAPL; 416; Range not satisfiable
+2018-10-19 18:30:03; ../jwestC31A02data/stocks.xml/?ssymbol=AAPL; 416; Range not satisfiable
+2018-10-19 18:30:15; ../jwestC31A02data/stocks.xml/?rating=outperform; 200; OK
+2018-10-19 18:42:59; /form.html; 404; Not Found
+2018-10-19 18:42:59; /favicon.ico; 200; OK
+2018-10-19 18:42:59; /favicon.ico; 200; OK
+2018-10-19 18:43:07; /createUser.html; 200; OK
+2018-10-19 18:43:07; /styles/style.css; 200; OK
+2018-10-19 18:43:21; /createUser.html; 200; OK
+2018-10-19 18:44:56; /createUser.html; 200; OK
+2018-10-19 18:44:56; /styles/style.css; 200; OK
+2018-10-19 18:51:00; /createUser.html; 200; OK
+2018-10-19 18:51:00; /styles/style.css; 200; OK
+2018-10-19 18:51:04; /createUser.html; 200; OK
+2018-10-19 18:51:08; /createUser.html; 200; OK
+2018-10-19 18:51:08; /styles/style.css; 200; OK
+2018-10-19 18:54:36; ../jwestC31A02data/cars.json/?year=2001&sorter=undefined; 200; OK
+2018-10-19 18:54:46; ../jwestC31A02data/cars.json/?year=2001&sorter=l; 200; OK
+2018-10-19 18:54:52; ../jwestC31A02data/cars.json/?year=2001&sorter=le; 200; OK
+2018-10-19 18:55:01; ../jwestC31A02data/cars.json/?year=2001&sorter=g; 200; OK
+2018-10-19 18:55:11; ../jwestC31A02data/cars.json/?year=2001&sorter=ge; 200; OK
+2018-10-19 18:55:16; ../jwestC31A02data/cars.json/?year=2001&sorter==; 200; OK
+2018-10-19 18:55:23; ../jwestC31A02data/cars.json/?year=2001&sorter=%3C=; 200; OK
+2018-10-19 18:55:59; ../jwestC31A02data/cars.json/?year=2001&sorter=%3C=; 200; OK
+2018-10-21 17:04:41; ../jwestC31A02root/public/index.html; 200; OK
+2018-10-21 17:04:42; /favicon.ico; 200; OK
+2018-10-21 17:04:42; /favicon.ico; 200; OK
+2018-10-21 17:04:47; ../jwestC31A02root/public/index.html; 200; OK
+2018-10-21 17:04:47; /favicon.ico; 200; OK
+2018-10-21 17:04:47; /favicon.ico; 200; OK
+2018-10-21 17:04:47; /favicon.ico; 200; OK
+2018-10-21 17:04:47; /favicon.ico; 200; OK
+2018-10-21 17:06:12; ../jwestC31A02root/public/index.html; 200; OK
+2018-10-21 17:06:13; /favicon.ico; 200; OK
+2018-10-21 17:06:13; /favicon.ico; 200; OK
+2018-10-21 17:07:37; ../jwestC31A02root/public/index.html; 200; OK
+2018-10-21 17:07:38; /favicon.ico; 200; OK
+2018-10-21 17:07:38; /favicon.ico; 200; OK
+2018-10-21 17:08:14; /TestHTML.html; 404; Not Found
+2018-10-21 17:08:14; /favicon.ico; 200; OK
+2018-10-21 17:08:14; /favicon.ico; 200; OK
+2018-10-21 17:08:57; ../jwestC31A02root/public/index.html; 200; OK
+2018-10-21 17:54:53; ../jwestC31A02data/cars.json/?model=undefined&sorter=undefined; 416; Range not satisfiable
+2018-10-21 17:55:20; ../jwestC31A02data/stocks.json; 400; Bad Request
+2018-10-21 17:55:28; ../jwestC31A02data/stocks.xml; 406; Not Acceptable
+2018-10-21 17:55:56; ../jwestC31A02data/cars.json/?model=undefined&sorter=undefined; 416; Range not satisfiable
+2018-10-21 17:56:46; ../jwestC31A02data/stocks.xml; 406; Not Acceptable
+2018-10-21 17:58:29; ../jwestC31A02data/stocks.xml/?out=r; 416; Range not satisfiable
+2018-10-21 17:59:30; ../jwestC31A02data/stocks.xml/?rating=n%5Ca&sSymbol=LEG; 200; OK
+2018-10-21 17:59:52; ../jwestC31A02data/stocks.xml/?rating=sell&sSymbol=LEG; 416; Range not satisfiable
+2018-10-21 18:00:06; ../jwestC31A02data/stocks.xml/?rating=outperform&sSymbol=LEG; 200; OK
+2018-10-21 18:00:14; ../jwestC31A02data/stocks.xml/?rating=buy&sSymbol=LEG; 416; Range not satisfiable
+2018-10-21 18:00:17; ../jwestC31A02data/stocks.xml/?rating=by&sSymbol=LEG; 200; OK
+2018-10-21 18:00:31; ../jwestC31A02data/stocks.xml/?rating=buy&sSymbol=LEG; 416; Range not satisfiable
+2018-10-21 18:00:36; ../jwestC31A02data/stocks.xml/?ratig=buy&sSymbol=LEG; 416; Range not satisfiable
+2018-10-24 19:13:28; ../jwestC31A02root/public/index.html; 200; OK
+2018-10-24 19:13:28; /favicon.ico; 200; OK
+2018-10-24 19:13:28; /favicon.ico; 200; OK
+2018-10-24 19:13:28; /favicon.ico; 200; OK
+2018-10-24 19:13:28; /favicon.ico; 200; OK
+2018-12-23 16:14:17; /socket.io/?EIO=3&transport=polling&t=MVRs7bI; 415; Unsupported Media Type
+2018-12-23 16:14:20; ../jwestC31A02root/public/index.html; 200; OK
+2018-12-23 16:14:20; /favicon.ico; 200; OK
+2018-12-23 16:14:20; /favicon.ico; 200; OK
